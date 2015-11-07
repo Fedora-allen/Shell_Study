@@ -10,7 +10,7 @@ do
 
 		if [ $? -eq 0 ];
 		then
-			echo $ip i alive
+			echo $ip is alive
 		fi
 	)&
 done
